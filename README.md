@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **I’m BANDANA BANERJEE**  <br>
-🌱 **I’m currently learning:**  <br>REACT<br><br>
+🌱 **I’m currently learning:**  REACT<br><br>
 💬 **Contact Me:**  <br> bbandana2012@gmail.com<br><br>
 
 # 💻 Tech Stack:
